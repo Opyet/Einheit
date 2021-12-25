@@ -2,8 +2,9 @@
 
 Unity is power, and the greatest power of change is in unity. Einheit is a metaverse project that thrives on the power of a more decentralized world where unity for community benefit is rewarded over division and chaos.
 
+Einheit combines aspects of Gaming, NFTs, DeFi, Marketplace and DAO to deliver an immersive and engageming metaverse GameFi platform and community.
 
-# Etherscan verification
+# User Story
 
 * User creates a personal avatar with a base entry fee. How much?
 * User buys enough governance token (25) as payment to mint UGC NFT. DAI goes into the treasury. (We will have to list gov token/DAI on an exchange??)
